@@ -21,3 +21,4 @@ Work is in progress.
 * multi-threaded approach to manage better refresh rates for time as well as utlizations.
 * display if a particular service/program is running or not.. like wamp server.
 * maybe display highest consuming services for each parameter.
+* create an installation script, which install all the dependencies and setup the main script to automatically execute at boot
